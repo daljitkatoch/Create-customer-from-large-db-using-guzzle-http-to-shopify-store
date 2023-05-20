@@ -59,14 +59,14 @@ $query = <<<QUERY
                 addresses {
                     address1
                     city
-					          province
+		    province
                     country
                     phone
                     zip
-					          lastName
-					          firstName
+		    lastName
+		    firstName
                 }
-				        tags
+		tags
             }
         }
     }
